@@ -1,0 +1,130 @@
+﻿  Button.cpp
+C:\dev\SDLpn\SDLpn\Button.cpp(5,2): error C2065: 'alive': undeclared identifier
+C:\dev\SDLpn\SDLpn\Button.cpp(46,4): error C2065: 'alive': undeclared identifier
+  Bullet4.cpp
+C:\dev\SDLpn\SDLpn\Bullet4.cpp(1,9): fatal error C1083: Cannot open include file: 'Enemy4.h': No such file or directory
+  main.cpp
+C:\dev\SDLpn\SDLpn\FireBall.h(9,7): warning C4215: nonstandard extension used: long float
+C:\dev\SDLpn\SDLpn\Gas.h(11,7): warning C4215: nonstandard extension used: long float
+C:\dev\SDLpn\SDLpn\main.cpp(194,26): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\dev\SDLpn\SDLpn\main.cpp(194,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(194,29): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\dev\SDLpn\SDLpn\main.cpp(194,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(407,8): warning C4215: nonstandard extension used: long float
+C:\dev\SDLpn\SDLpn\main.cpp(409,11): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(411,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(412,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(412,35): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(413,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(414,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(415,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(426,8): warning C4215: nonstandard extension used: long float
+C:\dev\SDLpn\SDLpn\main.cpp(428,11): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(430,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(431,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(431,35): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(433,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(434,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(435,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(446,8): warning C4215: nonstandard extension used: long float
+C:\dev\SDLpn\SDLpn\main.cpp(448,11): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(450,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(451,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(451,35): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(452,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(453,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(454,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(549,49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(577,8): warning C4215: nonstandard extension used: long float
+C:\dev\SDLpn\SDLpn\main.cpp(579,11): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(581,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(582,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(583,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(584,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(584,33): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(584,45): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(586,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(601,8): warning C4215: nonstandard extension used: long float
+C:\dev\SDLpn\SDLpn\main.cpp(604,11): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(606,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(607,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(608,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(609,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(609,33): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(609,45): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(610,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(624,8): warning C4215: nonstandard extension used: long float
+C:\dev\SDLpn\SDLpn\main.cpp(627,11): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(629,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(630,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(631,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(632,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(632,34): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(632,46): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(633,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(647,8): warning C4215: nonstandard extension used: long float
+C:\dev\SDLpn\SDLpn\main.cpp(650,11): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(652,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(653,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(654,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(655,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(655,34): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(655,46): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(656,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(669,8): warning C4215: nonstandard extension used: long float
+C:\dev\SDLpn\SDLpn\main.cpp(671,11): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(673,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(673,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(674,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(675,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(676,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(677,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(690,8): warning C4215: nonstandard extension used: long float
+C:\dev\SDLpn\SDLpn\main.cpp(692,11): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(694,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(694,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(695,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(696,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(697,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(698,8): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(723,45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1191,54): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1192,56): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1193,54): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1194,46): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1213,28): warning C4305: '-=': truncation from 'double' to 'float'
+C:\dev\SDLpn\SDLpn\main.cpp(1245,54): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1246,56): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1247,54): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1248,46): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1260,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1261,117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1261,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1269,17): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1272,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1283,25): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1288,26): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1293,25): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1298,21): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1316,17): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1316,65): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1319,14): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1346,22): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1346,74): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1349,19): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1370,22): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1370,69): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1373,19): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1385,23): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1385,76): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1388,20): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1406,23): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1406,71): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1408,20): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1418,22): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1418,74): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1421,19): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1442,22): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1442,69): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\dev\SDLpn\SDLpn\main.cpp(1444,19): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  Generating Code...
